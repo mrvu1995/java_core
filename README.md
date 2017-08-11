@@ -1,2 +1,2 @@
-# java_core
-Lead java core
+# git_javacore
+javacore
