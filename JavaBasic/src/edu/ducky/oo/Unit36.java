@@ -4,6 +4,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public abstract class Unit36 {
+    public static void main(String[] args) {
+        
+    }
 	public int increase(int a) {
 		return a + 7;
 	}
